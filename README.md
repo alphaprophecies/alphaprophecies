@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ved
 - 👀 I’m interested in web development and enterprenuership
 - 🌱 I’m currently learning javascript
-- 📫 How to reach me - https://twitter.com/alpha_prophecy
+- 📫 Reach me through discord - Syrax#8263
 
 <!---
 alphaprophecies/alphaprophecies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
