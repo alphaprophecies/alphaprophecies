@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ved
 - 👀 I’m interested in web development and enterprenuership
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning your mom
 - 📫 Reach me through discord - driller#8263
 
 <!---
