@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ved
-- 👀 I’m interested in web development and enterprenuership
+- 👀 I’m interested in philosophy.
 - 🌱 I’m currently learning your mom
 - 📫 Reach me through discord - Ty!er#2244
 
