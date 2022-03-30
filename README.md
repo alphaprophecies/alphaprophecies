@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ved
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning your mom
+- 🌱 I’m currently learning Django
 - 📫 Reach me through discord - Ty!er#2244
 
 <!---
